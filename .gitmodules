@@ -1,3 +1,6 @@
 [submodule "VICE"]
 	path = VICE
 	url = https://github.com/LAPIS-2026/VICE.git
+[submodule "emcee"]
+	path = emcee
+	url = https://github.com/LAPIS-2026/emcee.git
