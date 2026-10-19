@@ -4,3 +4,6 @@
 [submodule "emcee"]
 	path = emcee
 	url = https://github.com/LAPIS-2026/emcee.git
+[submodule "dynesty"]
+	path = dynesty
+	url = https://github.com/LAPIS-2026/dynesty.git
